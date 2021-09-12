@@ -20,6 +20,7 @@ Bonus points will be given from:
 This code is tested with following configuration:
 
 -   Jdk build 1.8.0_281
+-   apache-maven-3.8.2
 -   chromedriver 2.41.578737
 -   Windows 10
 - cucumber-jvm 6.11.0
